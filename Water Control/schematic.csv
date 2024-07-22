@@ -1,0 +1,11 @@
+"Part";"Value";"Device";"Package";"Description";"ANZAHL";"AVAILABILITY";"COMMENT";"DESCRIPTION";"EU_ROHS_COMPLIANCE";"MF";"MODUL";"MP";"MPN";"OC_FARNELL";"OC_NEWARK";"PACKAGE";"PRICE";"PURCHASE-URL";"SPICEMODEL";"SPICEPREFIX";"STECKPSI0";"STECKPSI1";"STECKX0";"STECKX1";"STECKY0";"STECKY1";
+"J1";"";"JACK-PLUG1";"SPC4078";"DC POWER JACK";"";"";"";"";"";"";"";"";"";"unknown";"unknown";"";"";"";"";"";"";"";"";"";"";"";
+"J2";"282834-3";"282834-3";"TE_282834-3";"Conn; Term Blk; PCB; Wire Receptacle; 3; 2.54mm; 30-16AWG; Green; 10A; 150V; M1.6 Check availability";"";"In Stock";"282834-3";" 3 Position Wire to Board Terminal Block Horizontal with Board 0.100 (2.54mm) ";"Compliant with Exemptions";"TE Connectivity";"";"282834-3";"";"";"";"None";"None";"https://pricing.snapeda.com/search/part/282834-3/?ref=eda";"";"";"";"";"";"";"";"";
+"MODUL1";"ARDUINO_NANO2";"ARDUINO_NANO2";"ARDUINO_NANO2";"Arduino Nano2";"2";"";"";"";"";"";"TRUE";"";"";"";"";"";"";"";"";"";"";"";"-76200";"76200";"177800";"177800";
+"R1";"PHOTOCELLONB";"PHOTOCELLONB";"ON_BOARD";"Photo Resitor";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"R2";"PHOTOCELLONB";"PHOTOCELLONB";"ON_BOARD";"Photo Resitor";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"R3";"PHOTOCELLONB";"PHOTOCELLONB";"ON_BOARD";"Photo Resitor";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"R4";"1k";"R0207/10";"0207/10";"RESISTOR, European symbol";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"NONE";"R";"";"";"";"";"";"";
+"R5";"1k";"R0207/10";"0207/10";"RESISTOR, European symbol";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"NONE";"R";"";"";"";"";"";"";
+"R6";"1k";"R0207/10";"0207/10";"RESISTOR, European symbol";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"NONE";"R";"";"";"";"";"";"";
+"U1";"LM7809CT";"LM7809CT";"TO254P470X1016X1879-3P";"Standard Regulator Pos 9V 1A 3-Pin(3+Tab) TO-220AB Rail Check availability";"";"In Stock";"";" Linear Voltage Regulator IC Positive Fixed 1 Output 1A TO-220-3 ";"";"ON Semiconductor";"";"LM7809CT";"";"";"";"TO-220-3 ON Semiconductor";"None";"https://pricing.snapeda.com/search/part/LM7809CT/?ref=eda";"";"";"";"";"";"";"";"";
